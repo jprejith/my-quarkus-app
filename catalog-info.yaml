@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-quarkus-app
+  annotations:
+    github.com/project-slug: jprejith/my-quarkus-app
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jprejith
